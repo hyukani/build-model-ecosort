@@ -1,23 +1,6 @@
 # EcoSort AI - Notebook Soft-Voting Ensemble 🤖♻️
 
-Selamat datang di repositori **EcoSort AI** khusus untuk model **Ensemble Soft-Voting**. Notebook dan modul di dalam folder ini berfokus pada penggabungan dua arsitektur *Deep Learning*, yaitu **EfficientNetB3** sebagai model utama dan **EfficientNetV2B0** sebagai model sekunder, untuk mencapai akurasi klasifikasi sampah yang optimal dan stabil.
-
-Proyek ini merupakan bagian dari **Capstone Project Coding Camp 2026** yang didukung oleh **DBS Foundation** dengan tema **Sustainable Living & Responsible Consumption**.
-
-**ID Tim:** CC26-PSU272
-
----
-
-## 📌 Daftar Isi
-
-1. [Ringkasan Proyek](#-ringkasan-proyek)
-2. [Struktur Direktori Drive dan Repositori](#%EF%B8%8F-struktur-direktori-drive-dan-repositori)
-3. [Arsitektur Model Ensemble](#-arsitektur-model-ensemble)
-4. [Konfigurasi Eksperimen](#%EF%B8%8F-konfigurasi-eksperimen)
-5. [Eksplorasi Data dan Dataset](#-eksplorasi-data-dan-dataset)
-6. [Langkah Penggunaan Google Colab](#-langkah-penggunaan-google-colab)
-7. [Hasil Kerja dan Deliverables](#-hasil-kerja-dan-deliverables)
-8. [Anggota Tim CC26-PSU272](#-anggota-tim-cc26-psu272)
+Selamat datang di repositori **EcoSort AI** khusus untuk model **Ensemble Soft-Voting**. Notebook dan modul di dalam folder ini berfokus pada penggabungan dua arsitektur *Deep Learning*, yaitu **EfficientNetB3** dan **EfficientNetV2B0** dengan *soft-voting*, untuk mencapai akurasi klasifikasi sampah yang optimal dan stabil.
 
 ---
 
@@ -138,47 +121,3 @@ Dataset yang digunakan berjumlah **1.197 gambar** setelah proses pembersihan dat
 
 5. **Evaluasi Model**  
    Setelah proses training selesai, lakukan evaluasi menggunakan data test untuk melihat performa model berdasarkan akurasi, *loss*, dan metrik klasifikasi lainnya.
-
----
-
-## 📦 Hasil Kerja dan Deliverables
-
-Deliverables utama dari proyek ini meliputi:
-
-- **Model AI Terlatih**  
-  Model disimpan pada direktori `ecosort_model/ensemble_soft_voting` dengan target akurasi minimal **85%**.
-
-- **Data Log Eksperimen**  
-  File log eksperimen terdiri dari:
-  - `metadata_split.csv`
-  - `experiment_summary.csv`
-  - `experiment_summary_ensemble.csv`
-
-- **Notebook Training Ensemble**  
-  File `ecosort_model_soft_voting_ensemble.ipynb` berisi keseluruhan proses mulai dari preprocessing, training, evaluasi, hingga penyimpanan model.
-
-- **Integrasi Web**  
-  Model disiapkan untuk di-*deploy* agar dapat melayani *request inference* dari aplikasi **Front-end React + Vite** melalui **RESTful API** pada sisi *Back-end*.
-
----
-
-## 👥 Anggota Tim CC26-PSU272
-
-| Nama | Role |
-| --- | --- |
-| Muhammad Dafa Alvin Zuhdi | Full-Stack Web Developer |
-| Muhammad Aqsa Firdaus | Data Scientist |
-| Putri Manika Rukmamaya | AI Engineer |
-| Maysahayu Artika Maharani | AI Engineer |
-| Muhamad Alfa Reza Gobel | Data Scientist |
-| Catherine Natalia Koeswandono | Full-Stack Web Developer |
-
----
-
-## 📄 Lisensi
-
-Dokumen ini disusun untuk kebutuhan dokumentasi proyek Capstone Project Coding Camp 2026. Penggunaan dan distribusi kode mengikuti kebijakan repositori proyek.
-
----
-
-**EcoSort AI © 2026 — Pilihan Cerdas untuk Bumi yang Lebih Hijau.**
