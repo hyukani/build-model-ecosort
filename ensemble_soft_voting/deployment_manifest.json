@@ -1,0 +1,26 @@
+{
+    "deployment_model_name": "ecosort_soft_voting_ensemble",
+    "deployment_model_path": "/content/drive/MyDrive/Capstone Coding Camp 2026/ecosort_model/ensemble_soft_voting/ecosort_ensemble_model.keras",
+    "h5_model_path": "/content/drive/MyDrive/Capstone Coding Camp 2026/ecosort_model/ensemble_soft_voting/ecosort_ensemble_model.h5",
+    "saved_model_dir": "/content/drive/MyDrive/Capstone Coding Camp 2026/ecosort_model/ensemble_soft_voting/saved_model",
+    "model_type": "soft_voting_ensemble",
+    "members": [
+        "EfficientNetB3",
+        "EfficientNetV2B0"
+    ],
+    "image_size": [
+        300,
+        300
+    ],
+    "num_classes": 6,
+    "class_names": [
+        "B3",
+        "Glass",
+        "Metal",
+        "Organic",
+        "Paper",
+        "Plastic"
+    ],
+    "custom_layer_file": "custom_layer.py",
+    "load_note": "Load .keras dengan custom_objects={'ChannelAttention': ChannelAttention}, compile=False, safe_mode=False."
+}

@@ -1,0 +1,10 @@
+tensorflow==2.20.0
+numpy
+pandas
+pillow
+scikit-learn
+matplotlib
+huggingface_hub
+fastapi
+uvicorn
+python-multipart

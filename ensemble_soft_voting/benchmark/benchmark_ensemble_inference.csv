@@ -1,0 +1,13 @@
+model_name,path,avg_ms,std_ms,runs
+ensemble_model,/content/drive/MyDrive/Capstone Coding Camp 2026/Dataset_Cleaned/Metal/Metal_104.jpg,96.58657266663795,2.88443270385671,3
+ensemble_model,/content/drive/MyDrive/Capstone Coding Camp 2026/Dataset_Cleaned/Metal/Metal_143.jpg,97.03316533326263,1.0660104607146628,3
+ensemble_model,/content/drive/MyDrive/Capstone Coding Camp 2026/Dataset_Cleaned/B3/B3_148.jpg,101.17489566664517,4.764689969729585,3
+ensemble_model,/content/drive/MyDrive/Capstone Coding Camp 2026/Dataset_Cleaned/Organic/Organic_166.jpg,105.56173100000403,6.821778922176534,3
+ensemble_model,/content/drive/MyDrive/Capstone Coding Camp 2026/Dataset_Cleaned/Organic/Organic_124.jpg,96.84462266667045,0.874955171519759,3
+ensemble_model,/content/drive/MyDrive/Capstone Coding Camp 2026/Dataset_Cleaned/Plastic/Plastic_178.jpg,98.94654366667055,2.3220563491849258,3
+ensemble_model,/content/drive/MyDrive/Capstone Coding Camp 2026/Dataset_Cleaned/Glass/Glass_039.jpg,98.28040000002147,0.6933058086618639,3
+ensemble_model,/content/drive/MyDrive/Capstone Coding Camp 2026/Dataset_Cleaned/Paper/Paper_200.jpg,100.01329933334091,1.7351957972893792,3
+ensemble_model,/content/drive/MyDrive/Capstone Coding Camp 2026/Dataset_Cleaned/Plastic/Plastic_069.jpg,104.45971266676679,7.242067681326485,3
+ensemble_model,/content/drive/MyDrive/Capstone Coding Camp 2026/Dataset_Cleaned/Glass/Glass_200.jpg,127.42035766662714,16.107285457344037,3
+ensemble_model,/content/drive/MyDrive/Capstone Coding Camp 2026/Dataset_Cleaned/B3/B3_135.jpg,136.09959200001262,10.513645424099495,3
+ensemble_model,/content/drive/MyDrive/Capstone Coding Camp 2026/Dataset_Cleaned/Glass/Glass_090.jpg,156.54064366663079,35.576798703049406,3

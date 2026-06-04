@@ -1,0 +1,23 @@
+{
+    "model_name": "main_ecosort_model",
+    "backbone": "EfficientNetB3",
+    "use_pretrained_backbone": true,
+    "image_size": [
+        300,
+        300
+    ],
+    "train_accuracy": 0.9988052845001221,
+    "validation_accuracy": 0.9555555582046509,
+    "test_accuracy": 0.9611111283302307,
+    "test_macro_precision": 0.9631507775524003,
+    "test_macro_recall": 0.9611111111111111,
+    "test_macro_f1": 0.9613347457627119,
+    "class_names": [
+        "B3",
+        "Glass",
+        "Metal",
+        "Organic",
+        "Paper",
+        "Plastic"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "class_names": [
+        "B3",
+        "Glass",
+        "Metal",
+        "Organic",
+        "Paper",
+        "Plastic"
+    ],
+    "label_to_index": {
+        "B3": 0,
+        "Glass": 1,
+        "Metal": 2,
+        "Organic": 3,
+        "Paper": 4,
+        "Plastic": 5
+    },
+    "index_to_label": {
+        "0": "B3",
+        "1": "Glass",
+        "2": "Metal",
+        "3": "Organic",
+        "4": "Paper",
+        "5": "Plastic"
+    },
+    "image_size": [
+        300,
+        300
+    ],
+    "preprocessing": "decode RGB, convert to float32, resize_with_pad, keep pixel range 0..255",
+    "deployment_model": "soft_voting_ensemble",
+    "members": [
+        "EfficientNetB3",
+        "EfficientNetV2B0"
+    ]
+}

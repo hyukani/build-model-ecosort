@@ -1,0 +1,68 @@
+{
+    "Plastic": {
+        "icon": "🧴",
+        "nama": "Plastik",
+        "pembuangan": "Cuci bersih dan keringkan sebelum diserahkan ke bank sampah atau drop point daur ulang plastik.",
+        "dampak": "Plastik butuh ratusan tahun untuk terurai dan berpotensi menjadi mikroplastik yang sudah ditemukan dalam darah manusia dan air minum.",
+        "saran": [
+            "Cek kode segitiga di bawah kemasan — plastik kode 1 (PET) dan 2 (HDPE) paling mudah didaur ulang",
+            "Jangan dibakar karena menghasilkan dioksin yang sangat beracun",
+            "Gunakan tas belanja dan botol minum reusable untuk mengurangi dari sumber"
+        ]
+    },
+    "B3": {
+        "icon": "☢️",
+        "nama": "B3 (Bahan Berbahaya & Beracun)",
+        "pembuangan": "Jangan buang ke tempat sampah biasa — serahkan ke e-waste center atau drop point limbah B3 terdekat.",
+        "dampak": "Limbah B3 mengandung logam berat yang bisa mencemari tanah dan air tanah selama puluhan tahun, dan berbahaya langsung bagi kesehatan manusia di sekitarnya.",
+        "saran": [
+            "Simpan sementara dalam wadah tertutup, jauhkan dari jangkauan anak-anak",
+            "Cari drop point di toko elektronik besar (Samsung, iBox, dll.) atau kantor PLN terdekat",
+            "Jangan dibongkar atau dibakar sendiri"
+        ]
+    },
+    "Paper": {
+        "icon": "📄",
+        "nama": "Kertas",
+        "pembuangan": "Kumpulkan kertas kering yang bersih, lalu serahkan ke bank sampah atau pengepul kertas.",
+        "dampak": "Setiap ton kertas yang didaur ulang menyelamatkan sekitar 17 pohon dan menghemat ribuan liter air dari proses produksi kertas baru.",
+        "saran": [
+            "Pastikan kertas kering dan tidak terkena minyak atau makanan sebelum dikumpulkan",
+            "Kardus bekas bisa langsung diserahkan ke pengepul dengan harga lebih tinggi",
+            "Kurangi cetak dokumen yang tidak perlu — simpan digital lebih praktis"
+        ]
+    },
+    "Organic": {
+        "icon": "🍃",
+        "nama": "Organik",
+        "pembuangan": "Buang ke tempat sampah organik atau olah langsung menjadi kompos di rumah.",
+        "dampak": "Sampah organik yang menumpuk di TPA menghasilkan gas metana — 25x lebih kuat dari CO₂ sebagai gas rumah kaca.",
+        "saran": [
+            "Gunakan komposter sederhana atau pot bekas untuk membuat kompos",
+            "Pisahkan dari sampah anorganik sejak awal agar tidak mencemari",
+            "Hasil kompos bisa langsung dipakai untuk tanaman di rumah"
+        ]
+    },
+    "Metal": {
+        "icon": "🥫",
+        "nama": "Logam",
+        "pembuangan": "Kumpulkan dan serahkan ke bank sampah atau pengepul logam — memiliki nilai jual yang cukup tinggi.",
+        "dampak": "Penambangan logam baru merusak ekosistem dan menghasilkan emisi karbon besar, sementara daur ulang logam menghemat hingga 95% energi produksi.",
+        "saran": [
+            "Gepengkan kaleng bekas agar lebih hemat tempat saat disimpan",
+            "Pisahkan logam besi dan aluminium jika bisa — harga jualnya berbeda",
+            "Jangan dibakar karena menghasilkan gas beracun"
+        ]
+    },
+    "Glass": {
+        "icon": "🍾",
+        "nama": "Kaca",
+        "pembuangan": "Bungkus dengan kertas atau koran sebelum dibuang, lalu serahkan ke bank sampah atau pengepul kaca.",
+        "dampak": "Kaca tidak terurai secara alami dan pecahannya berbahaya bagi manusia dan hewan, namun bisa didaur ulang tanpa batas tanpa kehilangan kualitas.",
+        "saran": [
+            "Gunakan kembali botol kaca sebagai wadah penyimpanan",
+            "Pisahkan dari sampah lain agar tidak pecah dan melukai petugas",
+            "Serahkan ke bank sampah untuk ditukar poin atau uang"
+        ]
+    }
+}

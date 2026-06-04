@@ -1,0 +1,20 @@
+{
+    "model_name": "soft_voting_ensemble",
+    "model_type": "ensemble",
+    "members": [
+        "EfficientNetB3",
+        "EfficientNetV2B0"
+    ],
+    "test_accuracy": 0.9666666666666667,
+    "test_macro_precision": 0.9687194525904204,
+    "test_macro_recall": 0.9666666666666667,
+    "test_macro_f1": 0.9670054459267939,
+    "class_names": [
+        "B3",
+        "Glass",
+        "Metal",
+        "Organic",
+        "Paper",
+        "Plastic"
+    ]
+}
