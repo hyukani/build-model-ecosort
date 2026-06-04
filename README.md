@@ -16,6 +16,8 @@ Model pada proyek ini menggunakan metode **Soft-Voting Ensemble** dengan menggab
 
 ### Path Google Drive Sebelum Running
 
+### Link Google Drive: https://drive.google.com/drive/folders/1OiU2w_Nqf5o5wbGOsbo7Xdyd0_wgNH13
+
 Pastikan Anda membuat pintasan (*shortcut*) folder bersama ke Drive utama dengan struktur berikut:
 
 ```text
