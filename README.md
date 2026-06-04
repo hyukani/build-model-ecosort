@@ -86,15 +86,15 @@ NUM_CLASSES = 6
 
 Dataset yang digunakan berjumlah **1.197 gambar** setelah proses pembersihan data atau *data cleaning*. Dataset telah disusun secara seimbang pada setiap kelas dan telah melewati pengecekan gambar rusak serta duplikasi.
 
-| Nama Kelas | Jumlah Gambar | Karakteristik Data |
-| --- | ---: | --- |
-| **B3** | 199 | Sampah elektronik, baterai, bohlam |
-| **Glass** | 200 | Botol kaca, beling, jar |
-| **Metal** | 200 | Kaleng minuman, aluminium foil |
-| **Organic** | 199 | Sisa makanan, daun, ranting |
-| **Paper** | 200 | Kardus, koran, kertas dokumen |
-| **Plastic** | 199 | Botol plastik, kantong kresek, cup |
-| **Total** | **1.197** | **Aman dari gambar rusak dan duplikat** |
+| Nama Kelas | Jumlah Gambar |
+| --- | ---: | 
+| **B3** | 199 | 
+| **Glass** | 200 | 
+| **Metal** | 200 | 
+| **Organic** | 199 | 
+| **Paper** | 200 | 
+| **Plastic** | 199 | 
+| **Total** | **1.197** | 
 
 ---
 
